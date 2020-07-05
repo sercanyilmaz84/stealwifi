@@ -1,3 +1,7 @@
+#####################################
+# Coded by Sercan Yılmaz
+# Contact: bilgi@sercanyilmaz.com.tr
+#####################################
 import os, re
 import smtplib
 import time
