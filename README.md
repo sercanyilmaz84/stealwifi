@@ -10,6 +10,6 @@ It can be useful for spesific targets and also u can use with badusb ;)
 ***********************************************************************
 # AntiScan.Me
 
-I just used basic hash algorithm before execute code and result is here:
+I just used basic hash algorithm before covert code to EXE and result is here:
 
 ![1](https://user-images.githubusercontent.com/52522145/86496029-34f49b80-bd84-11ea-9796-9cbf52141fbc.png)
