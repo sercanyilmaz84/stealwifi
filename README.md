@@ -2,7 +2,7 @@
 
 It can be useful for spesific targets and also u can use with badusb.
 
-This code created for ethical hacking students. All responsibilty on you ;)
+This code created for ethical hacking students. All responsibility on you ;)
 ***********************************************************************
 # Usage
 
