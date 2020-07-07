@@ -1,6 +1,8 @@
 # StealWifi - Steal Stored Wi-Fi Passwords From Any Windows PC
 
-It can be useful for spesific targets and also u can use with badusb ;)
+It can be useful for spesific targets and also u can use with badusb.
+
+This code created for ethical hacking students. All responsibilty on you ;)
 ***********************************************************************
 # Usage
 
