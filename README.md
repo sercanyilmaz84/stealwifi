@@ -3,6 +3,8 @@
 It can be useful for spesific targets and also u can use with badusb.
 
 This code created for ethical hacking students. All responsibility on you ;)
+
+Special thanks to https://github.com/nihatyldz42 for his support.
 ***********************************************************************
 # Usage
 
