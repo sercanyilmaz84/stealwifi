@@ -1,6 +1,6 @@
 #####################################
 # Coded by Sercan Yılmaz
-# Contact: bilgi@sercanyilmaz.com.tr
+# Contact: sercanyilmaz@protonmail.com
 #####################################
 import os, re
 import smtplib
